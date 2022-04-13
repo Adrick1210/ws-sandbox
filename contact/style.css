@@ -1,0 +1,70 @@
+#showcase {
+  background-image: url("../images/Barbatos.jpg");
+  background-position: center 20%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 500px;
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+.button {
+  background-color: blue;
+  font-family: PlavskyBold;
+  color: black;
+  padding: 10px 15px;
+  border: none;
+  transition: all 1s;
+}
+
+.button:hover {
+  background: red;
+  color: black;
+}
+
+.my-form {
+  padding: 20px;
+}
+
+.my-form .form-group {
+  padding-bottom: 15px;
+}
+
+.my-form label {
+  display: block;
+}
+
+.my-form input[type="text"],
+.my-form textarea {
+  padding: 8px;
+  width: 35%;
+}
+
+form {
+  margin: 10px;
+  margin-top: 20px;
+}
+
+form label {
+  display: block;
+  margin: 5px 0;
+}
+
+form input[type="text"],
+input[type="email"] {
+  padding: 7px 1px;
+  margin: 3px 0;
+  width: 100%;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+textarea[name="message"] {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  padding: 7px 1px;
+  margin: 3px 0;
+  width: 40%;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}

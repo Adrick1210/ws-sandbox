@@ -1,0 +1,56 @@
+#showcase {
+  background-image: url("../images/Freedom-3.jpg");
+  background-position: center 30%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 500px;
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+.categories li {
+  padding-bottom: 0px;
+  list-style-image: url("../images/Gundam-head-2\ \(1\).png");
+}
+
+.categories {
+  border: none;
+  padding: 16px;
+  border-radius: 10px;
+  border: none;
+  border-inline-end-width: 0;
+}
+
+.categories h2 {
+  text-align: left;
+}
+
+.categories ul {
+  padding: 0;
+  padding-left: 20px;
+  list-style: square;
+  list-style: none;
+}
+
+#main-2 {
+  float: left;
+  width: 70%;
+  padding: 0 30px;
+  box-sizing: border-box;
+}
+
+a:link {
+  color: #333;
+}
+
+a:visited {
+  color:#333;
+}
+
+a:hover {
+  color: red;
+}
+
+a:active {
+  color: #333;
+}
