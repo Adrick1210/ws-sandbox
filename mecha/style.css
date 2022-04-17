@@ -32,13 +32,6 @@
   list-style: none;
 }
 
-#main-2 {
-  float: left;
-  width: 70%;
-  padding: 0 30px;
-  box-sizing: border-box;
-}
-
 a:link {
   color: #333;
 }
